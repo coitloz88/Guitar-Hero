@@ -1,0 +1,4 @@
+repository "Jolup-Project@HYU_CSE_Guitar@cloud"
+  path "/"
+    smartbranch "/main/develop" changeset "97"                                                  
+     

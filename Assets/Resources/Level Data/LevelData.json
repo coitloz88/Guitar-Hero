@@ -1,0 +1,64 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "chords": ["A", "D", "E"],
+      "timeLimit": 5,
+      "problemCnt": 10
+    },
+    {
+      "level": 2,
+      "chords": ["A", "D", "E"],
+      "timeLimit": 3,
+      "problemCnt": 10
+    },
+    {
+      "level": 3,
+      "chords": ["A", "D", "E", "Am", "Em", "Dm"],
+      "timeLimit": 5,
+      "problemCnt": 15
+    },
+    {
+      "level": 4,
+      "chords": ["A", "D", "E", "Am", "Em", "Dm", "C", "G"],
+      "timeLimit": 5,
+      "problemCnt": 15
+    },
+    {
+      "level": 5,
+      "chords": ["A", "D", "E", "Am", "Em", "Dm", "E7", "A7", "D7", "C", "G"],
+      "timeLimit": 5,
+      "problemCnt": 15
+    },
+    {
+      "level": 6,
+      "chords": ["A", "A7", "Am", "C", "C7", "D", "D7", "Dm", "E", "E7", "Em", "G", "G7"],
+      "timeLimit": 5,
+      "problemCnt": 20
+    },
+    {
+      "level": 7,
+      "chords": ["A", "A7", "Am", "C", "C7", "D", "D7", "Dm", "E", "E7", "Em", "G", "G7"],
+      "timeLimit": 3,
+      "problemCnt": 20
+    },
+    {
+      "level": 8,
+      "chords": ["A", "A7", "Am", "B", "C", "C7", "D", "D7", "Dm", "E", "E7", "Em", "F", "G", "G7"],
+      "timeLimit": 3,
+      "problemCnt": 20
+    },
+    {
+      "level": 9,
+      "chords": ["A", "A7", "Am", "B", "Bm", "C", "C7", "Cm", "D", "D7", "Dm", "E", "E7", "Em", "F", "Fm", "G", "G7", "Gm"],
+      "timeLimit": 5,
+      "problemCnt": 20
+    },
+    {
+      "level": 10,
+      "chords": ["A", "A7", "Am", "B", "B7", "Bm", "C", "C7", "Cm", "D", "D7", "Dm", "E", "E7", "Em", "F", "F7", "Fm", "G", "G7", "Gm"],
+      "timeLimit": 3,
+      "problemCnt": 21
+    }
+  ]
+}
